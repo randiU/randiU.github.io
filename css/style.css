@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    background-image: url('../images/wheat.jpg');
+}
+
+#gameName {
+	font-family: 'Permanent Marker', cursive;;
+	font-size: 3em;
+	margin-bottom: 1%;
+	background-color:rgba(0, 0, 0, 0.1);
+}
+.infoContainer {
+	display: flex;
+	flex-wrap: wrap;
+}
+.playerInfo, .lives, .level, .points {
+	width: 33.33%;
+}
+
+.cait {
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 1.25em;
+	font-weight: 575;
+}
+
+footer {
+	font-size: 1.3em;
+	font-family: 'Shadows Into Light', cursive;
+	font-weight: bold;
+}
+
+
