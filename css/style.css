@@ -1,6 +1,9 @@
 body {
     text-align: center;
     background-image: url('../images/wheat.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
 }
 
 #gameName {
